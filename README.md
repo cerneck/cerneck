@@ -1,4 +1,4 @@
-### Bem vindos ao meu perfil 👋
+### Boas vindas ao meu perfil :blue_heart
 
 Meu nome é Amanda Cerneck
 
