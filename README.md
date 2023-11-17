@@ -1,8 +1,4 @@
-<strong>SOBRE A ESTUDANTE AMANDA CERNECK</strong>
+<h1>SOBRE A ESTUDANTE AMANDA CERNECK</h1>
 
-Me chamo <strong>Amanda Cerneck</strong>, tenho 15 anos meus pais se chamam_____________, moramos numa cidade do interior localizada no estado do paraná, conhecida como_________.
-Estudo no colégio MDG. Sou um aluno _______
-
-Frase que me define:”...”.
-
-Meu sonho é_______
+Me chamo <strong>Amanda</strong>, tenho 15 anos meus pais se chamam Lidia e Zeno, moramos numa cidade do interior localizada no estado do paraná, conhecida como cidade do frango.
+Estudo no colégio MDG. Sou uma aluna esforçada.
